@@ -1,2 +1,6 @@
-# kotlin_algorithm_study
-kotlin 문법 공부 및 알고리즘 스터디
+# algorithm_study
+
+선택 가능 언어 : Kotlin, Java, Python
+
+## 🛠Collaboration tools🛠
+### Github, Confluence, jira, Slack
